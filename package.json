@@ -1,0 +1,11 @@
+{
+  "name": "vue-cli-plugin-resolve-alias",
+  "version": "0.1.0",
+  "description": "A Vue-Cli-Plugin for set up resolve alias by using config file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bin.neverbug@gmail.com",
+  "license": "MIT"
+}
