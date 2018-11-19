@@ -1,5 +1,3 @@
-Add style-resources-loader to your project easier.
-
 # Vue-CLi-Plugin-Resolve-Alias
 
 A Vue-Cli-Plugin for set up resolve alias by using vue.config.js.
@@ -27,4 +25,4 @@ module.exports = {
     }
   }
 }
-```# vue-cli-plugin-resolve-alias
+```
