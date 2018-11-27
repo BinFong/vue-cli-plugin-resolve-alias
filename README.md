@@ -4,7 +4,7 @@ A Vue-Cli-Plugin for set up resolve alias by using vue.config.js.
 
 ## Install
 ```
-vue add style-resources-loader
+vue add resolve-alias
 ```
 
 ## Example
