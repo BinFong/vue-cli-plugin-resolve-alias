@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "vue",
+    "cli",
+    "plugin",
+    "vue-cli3",
+    "resolve alias",
+    "resolve-alias"
+  ],
   "author": "bin.neverbug@gmail.com",
   "license": "MIT"
 }
