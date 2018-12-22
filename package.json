@@ -1,6 +1,7 @@
 {
   "name": "vue-cli-plugin-resolve-alias",
-  "version": "0.1.2",
+  "homepage": "https://github.com/BinFong/vue-cli-plugin-resolve-alias",
+  "version": "0.1.3",
   "description": "A Vue-Cli-Plugin for set up resolve alias by using config file.",
   "main": "index.js",
   "scripts": {
