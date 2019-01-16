@@ -1,7 +1,8 @@
 const path = require('path');
 
 module.exports = (api, options, rootOptions) => {
-	let alias = {};
+
+  let alias = {};
 
 	if (options.defaultAlias) {
 		alias = {
