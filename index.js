@@ -6,7 +6,7 @@ module.exports = (api, projectOptions) => {
 
     const alias = options.alias;
     
-		Object.keys(alias).forEach(key => {
+    Object.keys(alias).forEach(key => {
 			if (alias[key]) {
 				webpackConfig.resolve.alias.set(key, alias[key]);
 			}
